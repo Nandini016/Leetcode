@@ -1,2 +1,2 @@
 # Leetcode
-This repository conytain all the leetcode solution i have solved so far!!
+This repository contain all the leetcode solution i have solved so far!!
